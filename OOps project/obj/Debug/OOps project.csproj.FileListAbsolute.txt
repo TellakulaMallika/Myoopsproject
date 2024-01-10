@@ -1,0 +1,7 @@
+C:\Users\sss\source\repos\OOps project\OOps project\bin\Debug\OOps project.exe.config
+C:\Users\sss\source\repos\OOps project\OOps project\bin\Debug\OOps project.exe
+C:\Users\sss\source\repos\OOps project\OOps project\bin\Debug\OOps project.pdb
+C:\Users\sss\source\repos\OOps project\OOps project\obj\Debug\OOps project.csproj.AssemblyReference.cache
+C:\Users\sss\source\repos\OOps project\OOps project\obj\Debug\OOps project.csproj.CoreCompileInputs.cache
+C:\Users\sss\source\repos\OOps project\OOps project\obj\Debug\OOps project.exe
+C:\Users\sss\source\repos\OOps project\OOps project\obj\Debug\OOps project.pdb
